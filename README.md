@@ -20,5 +20,5 @@
 <h2><ins>Activity stats</ins></h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pyguy-programming&theme=react" alt="Activity Graph">
 
-<h2><ins>Earned trophies</ins></h2>
-<img src="https://github-profile-repo.vercel.app/?username=PyGuy-Programming&theme=darkhub" alt="Trophies">
+<h2><ins>Trophies</ins></h2>
+<img src="https://github-profile-repo.vercel.app/?username=PyGuy-Programming&theme=darkhub&&title=Commits,Stars,Followers,Repositories," alt="Trophies">
