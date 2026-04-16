@@ -5,6 +5,8 @@
 <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" alt="OS_Linux">
 <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" alt="Language_Python">
 <img src="https://img.shields.io/badge/Language-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" alt="Shell_Bash">
+<img src="https://img.shields.io/badge/Editor-LazyVim-2bbc8a?logo=lazyvim&logoColor=white" alt="Editor_LazyVim">
+<img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNzMuNiAyLjVMMzcuMSAzNS4yIDE1LjYgMTguNSAzLjUgMjMuN3Y1Mi42bDEyLjEgNS4yIDIxLjYtMTYuNyAzNi41IDMyLjcgMjMtMTAuMlYxMi43em0wIDY2LjNMMzUuNCA1MCA3My42IDMxLjJ6Ii8+PC9zdmc+&logoColor=white&color=2bbc8a" alt="Editor_VSCode">
 
 <br clear="left"/>
 
