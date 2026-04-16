@@ -11,14 +11,14 @@
 <br clear="left"/>
 
 <h2 align="left"><ins>Github stats</ins></h2>
-<img src="https://github-readme-stats.vercel.app/api?username=pyguy-programming&show_icons=true&theme=react" alt="Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=pyguy-programming&show_icons=true&theme=dark" alt="Github Stats">
 <img src="https://streak-stats.demolab.com?user=pyguy-programming&theme=dark" alt="Github Stats">
 
 <h2><ins>Most used Languages</ins></h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyguy-programming&layout=compact&theme=react" alt="Github Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyguy-programming&layout=compact&theme=dark" alt="Github Stats">
 
 <h2><ins>Activity stats</ins></h2>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pyguy-programming&layout=compact&theme=react" alt="Github Stats">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pyguy-programming&theme=react" alt="Activity Graph">
 
 <h2><ins>Earned trophies</ins></h2>
 <img src="https://github-profile-repo.vercel.app/?username=PyGuy-Programming&theme=darkhub" alt="Trophies">
