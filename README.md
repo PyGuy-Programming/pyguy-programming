@@ -2,9 +2,10 @@
 <h1 align="center"><ins>My Repos:</ins></h1>
 
 <!-- REPOS_START -->
+<a href="https://github.com/PyGuy-Programming/bitchat-node-daemon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pyguy-programming&repo=bitchat-node-daemon&theme=react" alt="bitchat-node-daemon"></a>
+<a href="https://github.com/PyGuy-Programming/Homepage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pyguy-programming&repo=Homepage&theme=react" alt="Homepage"></a>
 <a href="https://github.com/PyGuy-Programming/pyguy-programming"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pyguy-programming&repo=pyguy-programming&theme=react" alt="pyguy-programming"></a>
 <a href="https://github.com/PyGuy-Programming/Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pyguy-programming&repo=Projects&theme=react" alt="Projects"></a>
-<a href="https://github.com/PyGuy-Programming/Homepage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pyguy-programming&repo=Homepage&theme=react" alt="Homepage"></a>
 <a href="https://github.com/PyGuy-Programming/sticker-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pyguy-programming&repo=sticker-tracker&theme=react" alt="sticker-tracker"></a>
 <a href="https://github.com/PyGuy-Programming/flashcards"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pyguy-programming&repo=flashcards&theme=react" alt="flashcards"></a>
 <a href="https://github.com/PyGuy-Programming/programm-setup-script-for-ubuntu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pyguy-programming&repo=programm-setup-script-for-ubuntu&theme=react" alt="programm-setup-script-for-ubuntu"></a>
