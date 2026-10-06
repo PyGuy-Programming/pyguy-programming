@@ -3,9 +3,9 @@
 
 <!-- REPOS_START -->
 <a href="https://github.com/PyGuy-Programming/Homepage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pyguy-programming&repo=Homepage&theme=react" alt="Homepage"></a>
+<a href="https://github.com/PyGuy-Programming/pyguy-programming"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pyguy-programming&repo=pyguy-programming&theme=react" alt="pyguy-programming"></a>
 <a href="https://github.com/PyGuy-Programming/homebrew-sshmgr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pyguy-programming&repo=homebrew-sshmgr&theme=react" alt="homebrew-sshmgr"></a>
 <a href="https://github.com/PyGuy-Programming/sshmgr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pyguy-programming&repo=sshmgr&theme=react" alt="sshmgr"></a>
-<a href="https://github.com/PyGuy-Programming/pyguy-programming"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pyguy-programming&repo=pyguy-programming&theme=react" alt="pyguy-programming"></a>
 <a href="https://github.com/PyGuy-Programming/Handguns-Galore-recipe-fix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pyguy-programming&repo=Handguns-Galore-recipe-fix&theme=react" alt="Handguns-Galore-recipe-fix"></a>
 <a href="https://github.com/PyGuy-Programming/dot-files"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pyguy-programming&repo=dot-files&theme=react" alt="dot-files"></a>
 <a href="https://github.com/PyGuy-Programming/rust-homepage-editor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pyguy-programming&repo=rust-homepage-editor&theme=react" alt="rust-homepage-editor"></a>
